@@ -1,5 +1,7 @@
 === Incentivibe ===
+Plugin Name: Incentivibe
 Plugin URI: http://www.incentivibe.com
+Description: Increase email leads and social media exposure by up to 400%!
 Author: Incentivibe
 Author URI: http://www.incentivibe.com
 Tags: incentivibe giveaway promotion sweepstakes
