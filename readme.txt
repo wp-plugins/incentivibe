@@ -15,7 +15,7 @@ Incentivibe is the first and only company in the world, which specializes in sha
 
 == Screenshots ==
 1. First widget screen for users to enter into giveaway and your newsletter.
-2. Second widget screen to spread your message in social media.
+1. Second widget screen to spread your message in social media.
 
 == Installation ==
 
