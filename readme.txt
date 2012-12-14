@@ -12,6 +12,11 @@ Stable tag: 1.0
 == Description ==
 Incentivibe is the first and only company in the world, which specializes in shared giveaways for small businesses. With Incentivibe's Shared Giveaways, small businesses become co-sponsors of a great prize by sharing a fraction (e.g. $19.99) of the prize cost with other small businesses (free trial available), and offer their visitors a legitimate chance to win that prize.
 
+
+== Screenshots ==
+1. First widget screen for users to enter into giveaway and your newsletter.
+2. Second widget screen to spread your message in social media.
+
 == Installation ==
 
 In three quick and easy steps you can start virally growing your email list and social media presence.
