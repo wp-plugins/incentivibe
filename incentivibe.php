@@ -14,7 +14,7 @@ add_action('admin_menu', 'incentivibe_admin_menu');
 add_action('wp_head', 'incentivibe_wp_head');
 
 function incentivibe_admin_menu(){
-	add_menu_page( __('Incentivibe'), __('Incentivibe'), 'manage_options', __FILE__, 'incentivibe_main_page', '', 90);
+	add_menu_page( __('Incentivibe'), __('Incentivibe'), 'manage_options', __FILE__, 'incentivibe_main_page', plugin_dir_url('assets/appicon.png'), 90);
 	add_action('admin_init', 'incentivibe_register_settings');
 }
 

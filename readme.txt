@@ -11,13 +11,13 @@ Stable tag: 1.0
 
 == Description ==
 
-Incentivibe allows you to offer your visitors a chance to win $500 contest prizes for which you only pay $19.99. Now you can increase your emails leads and social media exposure by up to 400% by motivating your visitors to subscribe, like, share, etc. to enter the contest for a legitimate chance to win something big.
+Incentivibe allows you to offer your visitors a chance to win $500 contest prizes for which you only pay $24.99. Now you can increase your emails leads and social media exposure by up to 400% by motivating your visitors to subscribe, like, share, etc. to enter the contest for a legitimate chance to win something big.
 
 Amazing testimonials (see below). No monthly contracts. Top-notch support guaranteed. Unlimited contestant entries for 3 months. Set-up within seconds! All contest legal/logistical work included for free, forever!
 
 = 1. How it works: =
 
-Incentivibe specializes in shared giveaways for small-mid size businesses. With Incentivibe's Shared Giveaways, businesses become co-sponsors of a great prize by sharing a fraction (e.g. $19.99) of the prize cost with other businesses (free trial available), and offer their visitors a legitimate chance to win that prize.
+Incentivibe specializes in shared giveaways for small-mid size businesses. With Incentivibe's Shared Giveaways, businesses become co-sponsors of a great prize by sharing a fraction (e.g. $24.99) of the prize cost with other businesses (free trial available), and offer their visitors a legitimate chance to win that prize.
 
 = 2. Key Benefits: =
 1. Increase Ad revenue and Sales: Motivate visitors with big prizes to drive lots of new referral traffic to increase sales and advertisement revenue.
