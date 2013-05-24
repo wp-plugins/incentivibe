@@ -8,13 +8,13 @@ Author: Incentivibe
 Author URI: www.incentivibe.com
 */
 
-define('INCENTIVIBE_VERSION', '1.0.1');
+define('INCENTIVIBE_VERSION', '1.0.2');
 
 add_action('admin_menu', 'incentivibe_admin_menu');
 add_action('wp_head', 'incentivibe_wp_head');
 
 function incentivibe_admin_menu(){
-	add_menu_page( __('Incentivibe'), __('Incentivibe'), 'manage_options', __FILE__, 'incentivibe_main_page', plugin_dir_url('images/appicon.png'), 90);
+	add_menu_page( __('Incentivibe'), __('Incentivibe'), 'manage_options', __FILE__, 'incentivibe_main_page', plugins_url( 'images/appicon.png', __FILE__ ) , 90);
 	add_action('admin_init', 'incentivibe_register_settings');
 }
 
