@@ -14,7 +14,7 @@ Stable tag: 1.0
 Incentivibe allows you to offer your visitors a chance to win $500 contest prizes for which you only pay $24.99. Now you can increase your emails leads and social media exposure by up to 400% by motivating your visitors to subscribe, like, share, etc. to enter the contest for a legitimate chance to win something big.
 <div style="margin-top: 25px">
 <iframe width="500" height="281" src="http://www.youtube-nocookie.com/embed/phTJFIU8__s?rel=0&showinfo=0&theme=light&iv_load_policy=3&modestbranding=1&autoplay=1" frameborder="0" allowfullscreen></iframe>
-</div
+</div  
 
 Amazing testimonials (see below). No monthly contracts. Top-notch support guaranteed. Unlimited contestant entries for 3 months. Set-up within seconds! All contest legal/logistical work included for free, forever!
 
@@ -66,5 +66,16 @@ e.g.
 1. Upload the entire incentivibe folder to the /wp-content/plugins/ directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Click <a href="http://www.incentivibe.com/users/sign_up?provider=wordpress" target="_blank">here</a> to generate the Incentivibe code to be placed in plugin.
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-34178502-5', 'wordpress.org');
+  ga('send', 'pageview');
+
+</script>
 
 
