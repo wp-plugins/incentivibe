@@ -12,9 +12,8 @@ Stable tag: 1.0
 == Description ==
 
 Incentivibe allows you to offer your visitors a chance to win $500 contest prizes for which you only pay $24.99. Now you can increase your emails leads and social media exposure by up to 400% by motivating your visitors to subscribe, like, share, etc. to enter the contest for a legitimate chance to win something big.
-<div style="margin-top: 25px">
-<iframe width="500" height="281" src="http://www.youtube-nocookie.com/embed/phTJFIU8__s?rel=0&showinfo=0&theme=light&iv_load_policy=3&modestbranding=1&autoplay=1" frameborder="0" allowfullscreen></iframe>
-</div  
+
+<embed width="500" height="281" src="//www.youtube.com/v/phTJFIU8__s?version=3&amp;fs=1&amp;autohide=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;theme=light&amp;controls=1" type="application/x-shockwave-flash" allowscriptaccess="always" wmode="transparent" allowfullscreen="true">
 
 Amazing testimonials (see below). No monthly contracts. Top-notch support guaranteed. Unlimited contestant entries for 3 months. Set-up within seconds! All contest legal/logistical work included for free, forever!
 
