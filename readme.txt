@@ -17,7 +17,7 @@ Incentivibe allows you to run giveaway contests on your website with $500 prizes
 
 [youtube http://www.youtube.com/watch?v=phTJFIU8__s]
 
-Checkout our amazing testimonials (see below). You can start our 14-Day Free trial to get 3-7 times more leads. No credit card is required  and top-notch support guaranteed. You can Set-up within seconds! All contest legal/logistical work included for free, forever!
+Checkout our amazing testimonials (see below). You can start our 14-Day Free trial to get 3-7 times more leads. No credit card is required  and top-notch support guaranteed. You can set-up within seconds! All contest legal/logistical work included for free, forever!
 
 = 1. How it works: =
 
