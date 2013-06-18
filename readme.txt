@@ -9,14 +9,13 @@ Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.0
 
-Hold giveaway contests on your website with $500 prizes for only $24.99 by sharing the prize cost with other businesses. Plus, get free contest tools & terms to get 3-7 times more leads.
+Hold giveaway contests on your website with $500 prizes for only $24.99 by sharing the prize cost with other businesses. Plus, get free contest tool!
 
 == Description ==
 
 Incentivibe's cost-sharing program pools businesses together so they can share the prize cost of big contest prizes with other businesses and motivate their individual visitors to become a lead, fan or follower for a chance to win that prize.
 
 [youtube http://www.youtube.com/watch?v=phTJFIU8__s]
-
 
 Amazing testimonials (see below). No monthly contracts. Top-notch support guaranteed. Unlimited contestant entries for 3 months. Set-up within seconds! All contest legal/logistical work included for free, forever!
 
