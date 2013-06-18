@@ -15,6 +15,8 @@ Hold giveaway contests on your website with $500 prizes for only $24.99 by shari
 
 Incentivibe allows you to run giveaway contests on your website with $500 prizes (e.g. iPad Mini, Tiffany & Co.,and many more) for only $24.99 by sharing the prize cost with other businesses. Plus we provide you with free contest tool (eg. lightbox or slider) and giveaway terms. And we also take care of winner announcement and prize delivery for you! 
 
+[Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress&utm_source=platform&utm_medium=link&utm_campaign=wordpress-desc-page "Incentivibe SignUp Page")
+
 [youtube http://www.youtube.com/watch?v=phTJFIU8__s]
 
 Checkout our amazing testimonials (see below). You can start our 14-Day Free trial to get 3-7 times more leads. No credit card is required  and top-notch support guaranteed. You can set-up within seconds! All contest legal/logistical work included for free, forever!
@@ -34,6 +36,9 @@ Incentivibe specializes in shared giveaways for small-mid size businesses. With 
 	* And much more ...
 1. Get amazing insights: See live data on the number of email leads, fans, followers, shares and tweets you are generating. See which users are taking what social media actions. Export all contestants email addresses.
 
+[Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress&utm_source=platform&utm_medium=link&utm_campaign=wordpress-desc-page "Incentivibe SignUp Page")
+
+
 = 3. Easy Campaign Setup: =
 
 1. First, you select the prize from our wide variety of prize options.
@@ -49,6 +54,9 @@ Business owners like yourself are already seeing tremendous results. See what th
 "Incentivibe's model was cost-effective, and was very easy to implement and monitor. After seeing a 40% increase in our Facebook Page interaction, and a 25% increase in our blog traffic, we are excited to get started on our next contest." Steph G, Vidyard - Featured in Forbes
 
 "The idea of paying a fraction of the amount for costly giveaway prizes by sharing the cost with others is just sheer brilliance. WizeNation generated a lot of traffic for the period of time the giveaway contest was taking place." Asim S., WizeNation
+
+[Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress&utm_source=platform&utm_medium=link&utm_campaign=wordpress-desc-page "Incentivibe SignUp Page")
+
 
 = Contact Us =
 
