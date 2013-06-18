@@ -4,7 +4,7 @@ Plugin URI: http://www.incentivibe.com
 Description: Increase email leads and social media exposure by up to 400%!
 Author: Incentivibe
 Author URI: http://www.incentivibe.com
-Tags: incentivibe giveaway promotion sweepstakes
+Tags: incentivibe giveaway promotion sweepstakes leads email social like contest 
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.0
@@ -68,15 +68,6 @@ e.g.
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Click <a href="http://www.incentivibe.com/users/sign_up?provider=wordpress" target="_blank">here</a> to generate the Incentivibe code to be placed in plugin.
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-34178502-5', 'wordpress.org');
-  ga('send', 'pageview');
-
-</script>
 
 
