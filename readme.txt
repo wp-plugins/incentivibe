@@ -13,11 +13,11 @@ Hold giveaway contests on your website with $500 prizes for only $24.99 by shari
 
 == Description ==
 
-Incentivibe's cost-sharing program pools businesses together so they can share the prize cost of big contest prizes with other businesses and motivate their individual visitors to become a lead, fan or follower for a chance to win that prize.
+Incentivibe allows you to run giveaway contests on your website with $500 prizes (e.g. iPad Mini, Tiffany & Co.,and many more) for only $24.99 by sharing the prize cost with other businesses. Plus we provide you with free contest tool (eg. lightbox or slider) and giveaway terms. And we also take care of winner announcement and prize delivery for you! 
 
 [youtube http://www.youtube.com/watch?v=phTJFIU8__s]
 
-Amazing testimonials (see below). No monthly contracts. Top-notch support guaranteed. Unlimited contestant entries for 3 months. Set-up within seconds! All contest legal/logistical work included for free, forever!
+Checkout our amazing testimonials (see below). You can start our 14-Day Free trial to get 3-7 times more leads. No credit card is required  and top-notch support guaranteed. You can Set-up within seconds! All contest legal/logistical work included for free, forever!
 
 = 1. How it works: =
 
