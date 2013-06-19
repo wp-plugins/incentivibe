@@ -4,7 +4,7 @@ Plugin URI: http://www.incentivibe.com
 Description: Increase email leads and social media exposure by up to 400%!
 Author: Incentivibe
 Author URI: http://www.incentivibe.com
-Tags: incentivibe giveaway promotion sweepstakes leads email social like contest 
+Tags: incentivibe giveaway promotion sweepstakes leads email social like contest incentive subscribers newsletter
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.0
