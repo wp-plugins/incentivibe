@@ -13,6 +13,9 @@ Hold giveaway contests on your website with $500 prizes for only $24.99 by shari
 
 == Description ==
 
+> **Promo: Start 14-day free trial by June 20, 2013 to get 20% off and win 1 year free plan.**
+
+
 Incentivibe allows you to run giveaway contests on your website with $500 prizes (e.g. iPad Mini, Tiffany & Co.,and many more) for only $24.99 by sharing the prize cost with other businesses. Plus we provide you with free contest tool (eg. lightbox or slider) and giveaway terms. And we also take care of winner announcement and prize delivery for you! 
 
 [Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress&utm_source=platform&utm_medium=link&utm_campaign=wordpress-desc-page "Incentivibe SignUp Page")
