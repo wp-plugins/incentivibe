@@ -47,7 +47,7 @@ function incentivibe_main_page() {
 	<h3><?php _e('How to Install?'); ?></h3>
 	
 	<p><?php _e('
-		To install incentivibe, please click <a href="http://www.incentivibe.com/users/sign_up?provider=wordpress&utm_source=platform&utm_medium=link&utm_campaign=wordpress-page" target="_blank">here</a> to register and generate a code. Paste the generated code in the space below and you are done!.
+		To install incentivibe, please click <a href="http://www.incentivibe.com/users/sign_up?provider=wordpress" target="_blank">here</a> to register and generate a code. Paste the generated code in the space below and you are done!.
 	'); ?></p>
 	<form method="post" action="options.php">
 		<?php settings_fields( 'incentivibe_main' ); ?>
