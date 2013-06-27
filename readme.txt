@@ -18,7 +18,7 @@ Hold giveaway contests on your website with $500 prizes for only $24.99 by shari
 
 Incentivibe allows you to run giveaway contests on your website with $500 prizes (e.g. iPad Mini, Tiffany & Co.,and many more) for only $24.99 by sharing the prize cost with other businesses. Plus we provide you with free contest tool (eg. lightbox or slider) and giveaway terms. And we also take care of winner announcement and prize delivery for you! 
 
-[Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress "Incentivibe SignUp Page")
+[Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress&utm_source=platform&utm_medium=wordpress-link&utm_campaign=wordpress-page "Incentivibe SignUp Page")
 
 [youtube http://www.youtube.com/watch?v=phTJFIU8__s]
 
@@ -39,7 +39,7 @@ Incentivibe specializes in shared giveaways for small-mid size businesses. With 
 	* And much more ...
 1. Get amazing insights: See live data on the number of email leads, fans, followers, shares and tweets you are generating. See which users are taking what social media actions. Export all contestants email addresses.
 
-[Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress "Incentivibe SignUp Page")
+[Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress&utm_source=platform&utm_medium=wordpress-link&utm_campaign=wordpress-page "Incentivibe SignUp Page")
 
 
 = 3. Easy Campaign Setup: =
@@ -58,7 +58,7 @@ Business owners like yourself are already seeing tremendous results. See what th
 
 "The idea of paying a fraction of the amount for costly giveaway prizes by sharing the cost with others is just sheer brilliance. WizeNation generated a lot of traffic for the period of time the giveaway contest was taking place." Asim S., WizeNation
 
-[Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress "Incentivibe SignUp Page")
+[Start Your Free 14-Day Trial](http://www.incentivibe.com/users/sign_up?provider=wordpress&utm_source=platform&utm_medium=wordpress-link&utm_campaign=wordpress-page "Incentivibe SignUp Page")
 
 
 = Contact Us =
@@ -77,7 +77,7 @@ e.g.
 
 1. Upload the entire incentivibe folder to the /wp-content/plugins/ directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Click <a href="http://www.incentivibe.com/users/sign_up?provider=wordpress" target="_blank">here</a> to generate the Incentivibe code to be placed in plugin.
+1. Click <a href="http://www.incentivibe.com/users/sign_up?provider=wordpress&utm_source=platform&utm_medium=wordpress-link&utm_campaign=wordpress-page" target="_blank">here</a> to signup and generate the Incentivibe code to be placed in plugin.
 
 
 
